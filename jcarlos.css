@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  #nombre {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 20px;
+  }
